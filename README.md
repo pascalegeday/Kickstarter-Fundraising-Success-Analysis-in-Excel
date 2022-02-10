@@ -1,6 +1,5 @@
-# Kickstarter-Fundraising-Success-Analysis-in-Excel
-Analysis of Kickstarter Fundraising Efforts  Analysis in Excel - Crowdfunding Analysis
-# Kickstarting with Excel
+# Kickstarter Analysis - Excel
+Analysis of Kickstarter Fundraising Efforts using Crowdfunding Data
 
 ## Overview of Project
 
